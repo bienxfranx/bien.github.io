@@ -1,7 +1,7 @@
 <template>
     <div class="navigation">
         <div class="logo">
-            <p>Bs</p>
+            <p>Bss</p>
         </div>
     </div>
 </template>
